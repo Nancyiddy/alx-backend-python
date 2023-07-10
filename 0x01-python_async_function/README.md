@@ -1,7 +1,7 @@
 # 0x01. Python - Async
 :open_file_folder: Specializations - Web Stack programming ― Back-end  
-:bust_in_silhouette: by Emmanuel Turlay, Staff Software Engineer at Cruise  
-:copyright: **[Holberton School](https://www.holbertonschool.com/)**  
+:bust_in_silhouette: by Nancy Idiong, Staff Software Engineer at Cruise  
+:copyright: **[ALX School](https://intranet.alxswe.com/)**  
 :bookmark: async | python | python3 async
 
 ## Resources
@@ -30,5 +30,5 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [x] 4. Tasks
 
 ## Software engineer
-Javier Andrés Garzón Patarroyo  
-:octocat: [GitHub](https://github.com/javierandresgp/)
+Nancy Idiong  
+:octocat: [GitHub](https://github.com/nancyiddy/)
