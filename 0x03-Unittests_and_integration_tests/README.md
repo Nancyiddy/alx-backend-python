@@ -1,7 +1,6 @@
 # 0x09. Unittests and Integration Tests
-:open_file_folder: Specializations - Web Stack programming ― Back-end  
-:bust_in_silhouette: by Emmanuel Turlay, Staff Software Engineer at Cruise  
-:copyright: **[Holberton School](https://www.holbertonschool.com/)**  
+:open_file_folder: Specializations - Web Stack programming ― Back-end    
+:copyright: **[ALX](https://www.alx.com/)**  
 :bookmark: fixtures | integration tests | memoization | mocking | parameterization | python | unit tests
 
 ## Resources
@@ -45,5 +44,5 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [ ] 9. Integration tests
 
 ## Software engineer
-Javier Andrés Garzón Patarroyo  
-:octocat: [GitHub](https://github.com/javierandresgp/)
+Nancy Idiong 
+:octocat: [GitHub](https://github.com/nancyiddy/)
